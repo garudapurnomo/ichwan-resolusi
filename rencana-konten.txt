@@ -5,3 +5,6 @@ belajar laravel
 belajar firebase
 belajar dart
 belajar golang
+python
+*data science
+*website
