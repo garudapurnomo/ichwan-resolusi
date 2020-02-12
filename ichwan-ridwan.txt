@@ -1,0 +1,4 @@
+Hal-hal yang dilakukan:
+membuat halaman website
+desain website
+android(flutter)
