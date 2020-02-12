@@ -2,3 +2,5 @@ Hal-hal yang dilakukan:
 membuat halaman website
 desain website
 android(flutter)
+ux desain
+ui desain
