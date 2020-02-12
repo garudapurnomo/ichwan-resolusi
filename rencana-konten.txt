@@ -3,3 +3,5 @@ belajar nodejava
 belajar laravel
 *framework di laravel
 belajar firebase
+belajar dart
+belajar golang
