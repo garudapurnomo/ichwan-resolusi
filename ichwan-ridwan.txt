@@ -4,3 +4,4 @@ desain website
 android(flutter)
 ux desain
 ui desain
+mencoba coding menggunakan feture dart atau flutter
