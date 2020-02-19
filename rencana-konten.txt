@@ -8,3 +8,4 @@ belajar golang
 python
 *data science
 *website
+mempelajari react java
